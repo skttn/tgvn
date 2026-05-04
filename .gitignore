@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+site/
+temp_all_files.txt
+current_packages.txt
