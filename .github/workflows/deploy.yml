@@ -1,0 +1,35 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install zensical unidecode
+
+      - name: Install custom slugify
+        run: |
+          SITE_PKG=$(python -c "import site; print(site.getsitepackages()[0])")
+          cp slugify_vi.py "$SITE_PKG/slugify_vi.py"
+
+      - name: Build site
+        run: zensical build
+
+      - name: Deploy to gh-pages
+        run: |
+          pip install ghp-import
+          ghp-import -n -p -f site
