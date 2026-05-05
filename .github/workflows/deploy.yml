@@ -21,13 +21,10 @@ jobs:
       - name: Install dependencies
         run: pip install zensical unidecode
 
-      - name: Install custom slugify
-        run: |
-          SITE_PKG=$(python -c "import site; print(site.getsitepackages()[0])")
-          cp slugify_vi.py "$SITE_PKG/slugify_vi.py"
-
       - name: Build site
         run: zensical build
+        env:
+          PYTHONPATH: ${{ github.workspace }}
 
       - name: Deploy to gh-pages
         run: |
