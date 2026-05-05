@@ -1,0 +1,19 @@
+/* Allow navigation tabs to wrap to multiple lines */
+.md-tabs__list {
+  flex-wrap: wrap;
+  height: auto !important;
+}
+
+.md-tabs {
+  height: auto !important;
+}
+
+/* Truncate long sidebar nav item titles to 1 line */
+.md-nav__item .md-nav__link {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: block;
+}
+
+
