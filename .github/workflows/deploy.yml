@@ -19,14 +19,13 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install zensical unidecode
+        run: pip install zensical unidecode ghp-import
+
+      - name: Install slugify_vi module
+        run: python -c "import site, shutil; shutil.copy('slugify_vi.py', site.getsitepackages()[0] + '/slugify_vi.py')"
 
       - name: Build site
         run: zensical build
-        env:
-          PYTHONPATH: ${{ github.workspace }}
 
       - name: Deploy to gh-pages
-        run: |
-          pip install ghp-import
-          ghp-import -n -p -f site
+        run: ghp-import -n -p -f site
