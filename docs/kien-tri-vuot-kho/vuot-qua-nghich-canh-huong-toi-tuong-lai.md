@@ -24,18 +24,16 @@ Và thế là chỉ hai năm sau, dựa vào sức lực của chính mình và 
 Những khó khăn, thử thách đến với chúng ta trong cuộc đời thực chất để kiểm tra năng lực và là cơ hội giúp chúng ta mạnh mẽ hơn. Điều quan trọng khi đối diện với chúng, bạn hãy giữ vững ý chí và sức lực của mình để vượt qua nó.
 
 ## 🔗 Nguyên nhân + Điều kiện → Kết quả
-
-Giữ vững ý chí, niềm tin vào bản thân trước khó khăn, thử thách → Vượt qua được khó khăn, mạnh mẽ, trưởng thành hơn.
-
-Tránh né, buông xuôi trước những khó khăn, thử thách → Nghị lực yếu, kém cỏi, không được mọi người xem trọng.
+- [x] Giữ vững ý chí, niềm tin vào bản thân trước khó khăn, thử thách → Vượt qua được khó khăn, mạnh mẽ, trưởng thành hơn.
+- [ ] Tránh né, buông xuôi trước những khó khăn, thử thách → Nghị lực yếu, kém cỏi, không được mọi người xem trọng.
 
 ## 🤔 Câu hỏi tư duy
 
-Cách mà Scott đương đầu với những khó khăn của mình thể hiện phẩm chất gì ở ông?
+1. Cách mà Scott đương đầu với những khó khăn của mình thể hiện phẩm chất gì ở ông?
 
-Sẽ ra sao nếu chúng ta không quan tâm tới tương lai và buông xuôi trước những khó khăn trong học tập và công việc?
+2. Sẽ ra sao nếu chúng ta không quan tâm tới tương lai và buông xuôi trước những khó khăn trong học tập và công việc?
 
-Bạn đã làm thế nào để vượt qua những khó khăn, thử thách trong học tập và rèn luyện?
+3. Bạn đã làm thế nào để vượt qua những khó khăn, thử thách trong học tập và rèn luyện?
 
 
 ## 📋 Thẻ câu chuyện

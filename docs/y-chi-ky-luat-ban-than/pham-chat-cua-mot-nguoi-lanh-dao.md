@@ -28,20 +28,18 @@ Hiểu rằng mình đã mắc phải một sai lầm lớn, viên hạ sĩ li�
 Sử dụng địa vị để áp đặt người khác là hành vi của một kẻ chuyên quyền. Một người lãnh đạo cần hiểu rõ khả năng của các đồng đội và hỗ trợ họ lúc cần thiết. Như vậy, mới có thể nhận được niềm tin và sự tôn trọng từ mọi người.
 
 ## 🔗 Nguyên nhân + Điều kiện → Kết quả
-
-Hỗ trợ đồng đội những lúc cần thiết → Được mọi người quý trọng, quan tâm giúp đỡ, tổ chức lớn mạnh.
-
-Lạm dụng quyền lực sai khiến người khác → Không được mọi người đồng thuận, mất quyền lực, địa vị.
+- [x] Hỗ trợ đồng đội những lúc cần thiết → Được mọi người quý trọng, quan tâm giúp đỡ, tổ chức lớn mạnh.
+- [ ] Lạm dụng quyền lực sai khiến người khác → Không được mọi người đồng thuận, mất quyền lực, địa vị.
 
 ## 🤔 Câu hỏi tư duy
 
-Hành động của Washington trong câu chuyện thể hiện được những phẩm chất nào?
+1. Hành động của Washington trong câu chuyện thể hiện được những phẩm chất nào?
 
-Theo bạn, do có những suy nghĩ gì mà hành động của Washington và viên nghị sĩ trở nên khác biệt?
+2. Theo bạn, do có những suy nghĩ gì mà hành động của Washington và viên nghị sĩ trở nên khác biệt?
 
-Nếu những người có quyền lực luôn áp đặt tư tưởng của mình lên cấp dưới mà không giải thích thì xã hội sẽ ra sao?
+3. Nếu những người có quyền lực luôn áp đặt tư tưởng của mình lên cấp dưới mà không giải thích thì xã hội sẽ ra sao?
 
-Bạn hãy kể ra những phẩm chất mà một người lãnh đạo cần có. Làm sao để xây dựng được những phẩm chất ấy?
+4. Bạn hãy kể ra những phẩm chất mà một người lãnh đạo cần có. Làm sao để xây dựng được những phẩm chất ấy?
 
 
 ## 📋 Thẻ câu chuyện

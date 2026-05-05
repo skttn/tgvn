@@ -26,18 +26,16 @@ Và rồi Mandela kết luận: "Tất cả mọi người, kể cả những ng
 Trong mỗi con người chúng ta, kể cả với những kẻ tàn bạo nhất luôn tồn tại sự thiện lương. Chúng ta cần giữ niềm tin vào điều đó và hãy cứ đối xử với họ một cách tử tế, bình đẳng, rồi một ngày nào đó sự thiện lương trong những con người đó sẽ được đánh thức và họ sẽ sống đúng với lương tâm của một con người, đó hẳn là điều tuyệt vời nhất mà chúng ta sẽ cảm nhận được.
 
 ## 🔗 Nguyên nhân + Điều kiện → Kết quả
-
-Dám cùng nhau đứng lên vì một mục tiêu đúng đắn → Tạo nên một khối vững mạnh, khiến kẻ thù phải kiêng nể.
-
-Đối xử tử tế kể cả với những kẻ tàn bạo → Tình yêu, lòng vị tha rộng mở, cảm hoá được cả cái ác, được mọi người yêu mến, kính trọng.
+- [x] Dám cùng nhau đứng lên vì một mục tiêu đúng đắn → Tạo nên một khối vững mạnh, khiến kẻ thù phải kiêng nể.
+- [ ] Đối xử tử tế kể cả với những kẻ tàn bạo → Tình yêu, lòng vị tha rộng mở, cảm hoá được cả cái ác, được mọi người yêu mến, kính trọng.
 
 ## 🤔 Câu hỏi tư duy
 
-Điều gì đã khiến kẻ tàn bạo như Badenhorst lại dành một lời chúc tốt lành cho Mandela trước khi rời đi?
+1. Điều gì đã khiến kẻ tàn bạo như Badenhorst lại dành một lời chúc tốt lành cho Mandela trước khi rời đi?
 
-Vì sao Mandela lại nói ngay cả những kẻ tàn bạo nhất cũng có sự thiện lương?
+2. Vì sao Mandela lại nói ngay cả những kẻ tàn bạo nhất cũng có sự thiện lương?
 
-Theo bạn, chúng ta cần ứng xử thế nào với một kẻ hay hung hăng, gây sự?
+3. Theo bạn, chúng ta cần ứng xử thế nào với một kẻ hay hung hăng, gây sự?
 
 
 ## 📋 Thẻ câu chuyện

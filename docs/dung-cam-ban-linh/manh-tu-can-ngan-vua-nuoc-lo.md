@@ -22,18 +22,16 @@ Mạnh Tử ghét chiến tranh xâm lăng, mà ngay cả trường hợp tự v
 Đất nước được tạo bởi các phần tử là dân chúng, dân yên vui thì đất nước mới thái bình, vua quan mới thịnh trị. Vì vậy, người lãnh đạo là người biết cách dẫn dắt, giáo hoá, làm gương để sao cho người dân có được cuộc sống ấm no, yên vui, hạnh phúc. Đó là đạo trị quốc cao đẹp mà người xưa đã để lại để nhắc nhở thế hệ con cháu mai sau.
 
 ## 🔗 Nguyên nhân + Điều kiện → Kết quả
-
-Cai trị hà khắc với nhân dân → Nhân dân cực khổ, bất bình, đất nước suy vong, sớm bị lật đổ.
-
-Chăm lo chu đáo tới đời sống của nhân dân → Cuộc sống ý nghĩa, được nhân dân tín nhiệm, tôn vinh.
+- [x] Cai trị hà khắc với nhân dân → Nhân dân cực khổ, bất bình, đất nước suy vong, sớm bị lật đổ.
+- [ ] Chăm lo chu đáo tới đời sống của nhân dân → Cuộc sống ý nghĩa, được nhân dân tín nhiệm, tôn vinh.
 
 ## 🤔 Câu hỏi tư duy
 
-Điều gì được thể hiện thông qua lời Mạnh Tử khuyên can vua nước Lỗ?
+1. Điều gì được thể hiện thông qua lời Mạnh Tử khuyên can vua nước Lỗ?
 
-Chuyện gì sẽ xảy ra nếu quan chức chỉ biết làm lợi cho bản thân mà không chăm lo tới đời sống nhân dân?
+2. Chuyện gì sẽ xảy ra nếu quan chức chỉ biết làm lợi cho bản thân mà không chăm lo tới đời sống nhân dân?
 
-Bạn dự định sẽ làm gì khi trở thành một người trưởng nhóm, lãnh đạo mọi người?
+3. Bạn dự định sẽ làm gì khi trở thành một người trưởng nhóm, lãnh đạo mọi người?
 
 
 ## 📋 Thẻ câu chuyện

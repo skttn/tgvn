@@ -24,18 +24,16 @@ Gần một năm sau khi có ý tưởng, cuốn “Đại thành Toán pháp”
 Đủ trăn trở, đủ nỗ lực, thành công sẽ đến. Điều tuyệt vời hơn nữa là những trăn trở, nỗ lực ấy hướng về điều thiện lành, giúp đỡ mọi người, thiên nhiên quanh ta. Hãy chọn cho mình một cuộc sống đầy ý nghĩa!
 
 ## 🔗 Nguyên nhân + Điều kiện → Kết quả
-
-Lên tiếng trước những bất công trong xã hội → Cuộc sống ý nghĩa, xã hội dần tốt đẹp hơn, được mọi người quý trọng.
-
-Nỗ lực cống hiến những điều tốt đẹp cho cuộc đời → Nghị lực vững mạnh, sống bình an, được mọi người kính trọng, tôn vinh.
+- [x] Lên tiếng trước những bất công trong xã hội → Cuộc sống ý nghĩa, xã hội dần tốt đẹp hơn, được mọi người quý trọng.
+- [ ] Nỗ lực cống hiến những điều tốt đẹp cho cuộc đời → Nghị lực vững mạnh, sống bình an, được mọi người kính trọng, tôn vinh.
 
 ## 🤔 Câu hỏi tư duy
 
-Phản ứng của Vinh thế vinh trước vụ việc xô xát trong truyện thể hiện phẩm chất gì ở ông?
+1. Phản ứng của Vinh thế vinh trước vụ việc xô xát trong truyện thể hiện phẩm chất gì ở ông?
 
-Sẽ ra sao nếu gặp những chuyện bất công, chúng ta chỉ buồn mà không hành động?
+2. Sẽ ra sao nếu gặp những chuyện bất công, chúng ta chỉ buồn mà không hành động?
 
-Bạn đã từng gặp những chuyện bất công nào? Phản ứng của bạn khi đó ra sao?
+3. Bạn đã từng gặp những chuyện bất công nào? Phản ứng của bạn khi đó ra sao?
 
 
 ## 📋 Thẻ câu chuyện

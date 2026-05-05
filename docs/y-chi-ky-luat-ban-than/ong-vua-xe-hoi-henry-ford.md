@@ -27,10 +27,8 @@ Không hề hứa suông, Henry đã luôn suy ngẫm để cải tiến quá tr
 Hiện thực hoá ý tưởng không hề xa vời nếu chúng ta quyết tâm học hỏi, thực hành đến tận cùng. Kiên trì bám sát mục tiêu và luôn trăn trở về điều đó sẽ giúp bạn đạt được điều mình mong muốn.
 
 ## 🔗 Nguyên nhân + Điều kiện → Kết quả
-
-Luôn cố gắng học tập, rèn luyện để đem lại những điều tốt đẹp cho những người xung quanh → Nội lực ngày một vững mạnh, mọi người kính mến.
-
-Kiên trì, trăn trở mỗi ngày để thực hiện mục tiêu → Tìm ra giải pháp, đạt được thành công.
+- [x] Luôn cố gắng học tập, rèn luyện để đem lại những điều tốt đẹp cho những người xung quanh → Nội lực ngày một vững mạnh, mọi người kính mến.
+- [ ] Kiên trì, trăn trở mỗi ngày để thực hiện mục tiêu → Tìm ra giải pháp, đạt được thành công.
 
 ## 🤔 Câu hỏi tư duy
 

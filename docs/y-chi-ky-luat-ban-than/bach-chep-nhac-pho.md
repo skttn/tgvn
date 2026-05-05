@@ -32,18 +32,16 @@ Bach đã kiên trì với giấc mơ âm nhạc của mình. Và cuối cùng, 
 Đam mê là khởi nguồn của sức mạnh và sự sáng tạo. Hãy nuôi dưỡng và kiên trì với đam mê của mình, bạn sẽ tìm được niềm vui và ý nghĩa của cuộc sống.
 
 ## 🔗 Nguyên nhân + Điều kiện → Kết quả
-
-Kiên trì với niềm đam mê của mình → Nghị lực tăng trưởng, tìm được niềm vui trong cuộc sống.
-
-Thành thật nhận lỗi và không tái phạm về sau → Tăng uy tín, được tha thứ, sống nhẹ lòng hơn.
+- [x] Kiên trì với niềm đam mê của mình → Nghị lực tăng trưởng, tìm được niềm vui trong cuộc sống.
+- [ ] Thành thật nhận lỗi và không tái phạm về sau → Tăng uy tín, được tha thứ, sống nhẹ lòng hơn.
 
 ## 🤔 Câu hỏi tư duy
 
-Động lực gì khiến Johann Christoph Bach nỗ lực chép cuốn nhạc phổ?
+1. Động lực gì khiến Johann Christoph Bach nỗ lực chép cuốn nhạc phổ?
 
-Điều gì sẽ xảy ra nếu chúng ta không tìm được niềm đam mê của chính mình?
+2. Điều gì sẽ xảy ra nếu chúng ta không tìm được niềm đam mê của chính mình?
 
-Theo bạn, làm thế nào để chúng ta tìm và nuôi dưỡng được niềm đam mê?
+3. Theo bạn, làm thế nào để chúng ta tìm và nuôi dưỡng được niềm đam mê?
 
 
 ## 📋 Thẻ câu chuyện

@@ -28,18 +28,16 @@ Dân Mê Linh và cả nước ùn ùn kéo theo hai chị em bà Trưng. Giáo 
 Nỗi tủi nhục, cay đắng luôn hằn sâu trong tâm trí của một dân tộc bị cướp nước. Thật đau xót thay khi chứng kiến cảnh giặc ngoại xâm hành hạ đồng bào và tàn phá những mảnh đất tươi đẹp mà ông cha ta để lại. Khi tổ quốc cần, hãy sẵn sàng cầm súng, đứng lên chiến đấu cho sự độc lập, toàn vẹn lãnh thổ của nước nhà.
 
 ## 🔗 Nguyên nhân + Điều kiện → Kết quả
-
-Gìn giữ nét đẹp văn hoá của dân tộc → Gia đình, xóm làng gắn kết, được mọi người kính trọng.
-
-Gây chia rẽ, mất đoàn kết nội bộ → Dễ nóng nảy, bất an, mọi người không coi trọng, bị cô lập.
+- [x] Gìn giữ nét đẹp văn hoá của dân tộc → Gia đình, xóm làng gắn kết, được mọi người kính trọng.
+- [ ] Gây chia rẽ, mất đoàn kết nội bộ → Dễ nóng nảy, bất an, mọi người không coi trọng, bị cô lập.
 
 ## 🤔 Câu hỏi tư duy
 
-Điều gì đã thôi thúc Hai Bà Trưng quyết tâm giành lại nền độc lập nước nhà?
+1. Điều gì đã thôi thúc Hai Bà Trưng quyết tâm giành lại nền độc lập nước nhà?
 
-Theo bạn, điều gì tạo nên sự đoàn kết của một tổ chức/cộng đồng?
+2. Theo bạn, điều gì tạo nên sự đoàn kết của một tổ chức/cộng đồng?
 
-Bạn sẽ làm gì để giúp mọi người trong gia đình, lớp học gắn kết với nhau hơn nữa?
+3. Bạn sẽ làm gì để giúp mọi người trong gia đình, lớp học gắn kết với nhau hơn nữa?
 
 
 ## 📋 Thẻ câu chuyện

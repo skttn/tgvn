@@ -100,6 +100,23 @@ Cô sinh viên nghèo Marie Curie ấy sau này đã trở thành nhà khoa họ
 
 HẾT
 
+## 💡 Bài học rút ra
+
+Marie Curie là tấm gương sáng về ý chí kiên định, kỷ luật bản thân và lòng biết ơn sâu sắc. Dù phải đối mặt với nghèo đói, bệnh tật và mất mát, bà không bao giờ từ bỏ đam mê khoa học. Sự hi sinh thầm lặng, tinh thần tự học bền bỉ và tấm lòng nhân hậu đã đưa bà đến đỉnh cao tri thức nhân loại — trở thành người phụ nữ duy nhất cho đến nay nhận hai giải Nobel ở hai lĩnh vực khác nhau.
+
+## 🔗 Nguyên nhân + Điều kiện → Kết quả
+
+- [x] Kiên trì học tập và nghiên cứu dù hoàn cảnh vô cùng khó khăn → Đạt được thành tựu vĩ đại, tên tuổi được cả thế giới tôn vinh mãi mãi.
+- [ ] Buông bỏ ước mơ khi gặp nghịch cảnh → Mãi sống trong tầm thường, không bao giờ biết mình có thể vươn đến đâu.
+
+## 🤔 Câu hỏi tư duy
+
+1. Marie đã chủ động từ bỏ việc học để giúp chị gái trước, rồi mới được chị giúp lại. Bạn thấy điều đó dạy chúng ta bài học gì về sự cho đi và nhận lại?
+
+2. Dù đã trở thành nhà khoa học nổi tiếng, Marie vẫn cố gắng trả lại suất học bổng mình từng nhận. Theo bạn, lòng biết ơn có tạo nên sự khác biệt trong cuộc đời một con người không?
+
+3. Bạn sẽ làm gì để nuôi dưỡng đam mê học tập và rèn luyện kỷ luật bản thân như Marie Curie?
+
 
 ## 📋 Thẻ câu chuyện
 

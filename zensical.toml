@@ -395,6 +395,9 @@ admonition = {}
 attr_list = {}
 md_in_html = {}
 
+[project.markdown_extensions.toc]
+slugify = { object = "slugify_vi.slugify", kwds = {} }
+
 [project.markdown_extensions.pymdownx]
 tabbed = { alternate_style = true }
 tasklist = { custom_checkbox = true }

@@ -5,7 +5,7 @@ tags:
   - kientri
   - konstantinetsiolkovsky
 ---
-# “con chim nhỏ”
+# “Con chim nhỏ”
 
 ## 📖 Nội dung
 
@@ -19,7 +19,7 @@ Cậu bé nhắm mắt lại và kiên quyết rời khỏi mái nhà. Cậu bé
 
 Một hôm cậu được mẹ mua cho một quả bóng bay xanh đỏ. Quả bóng sặc sỡ kéo căng dây buộc như muốn bay lên bằng một đôi cánh vô hình. Cậu tự hỏi "Cánh quả bóng ở đâu? hay là nó giấu bên trong?". Thế là cậu quyết định dùng dao mổ quả bóng để xem xem có cái gì trong ruột không. Một tiếng nổ khô khan. Quả bóng đẹp đẽ chỉ còn là một khúc ruột cừu nhăn nhúm, cậu tiếc ngẩn người, mẹ cậu ca cẩm, còn ông anh thì cho cậu ba cái cốc vào trán nảy đom đóm mắt. Nhưng cậu vui sướng vì đã khám phá ra điều bí mật: quả bóng không có cánh. Và bóng bay được thì cậu cũng sẽ bay được!
 
-Từ đó mỗi khi nằm gối đầu trên cánh tay, nhìn trời đêm thăm thẳm, cậu theo trí tưởng tượng bay vào khoảng không bao la, xứ sở của các vì sao. Cậu nằm mơ thấy những chuyến bay kỳ lạ, dường như cậu đã vứt bỏ được trọng lượng của bản thân. Khát vọng bay vào khoảng không giữa các hành tinh và hoàn toàn thoát khỏi sức hút của trái đất đã sớm hình thành ở cậu bé ngay từ khi cậu còn chưa đọc thông viết thạo. Ngay từ khi trong ý thức mới hình thành những nét lờ mờ thì cậu bé đã có một ước mơ thú vị, nhưng thầm kín là làm sao tạo được một môi trường trong đó con người chuyển động hoàn toàn tự do theo mọi hướng, nhẹ nhàng hơn cả chim bay trong không khí mà không hề bị rơi xuống đâu cả. Khi đó chưa có ai nói một tí gì với cậu bé về môi trường không có trọng lực, nhưng cậu bé vẫn mong muốn điều đó. Một sự mong muốn day dứt. Do sở thích khám phá về việc bay lượn nên ngay từ nhỏ, Tsiolkovsky đã được các ông anh tặng cho biệt hiệu là "Con chim nhỏ" – cái biệt hiệu đầy kiêu hãnh, vẫy gọi những chuyến bay!
+Từ đó mỗi khi nằm gối đầu trên cánh tay, nhìn trời đêm thăm thẳm, cậu theo trí tưởng tượng bay vào khoảng không bao la, xứ sở của các vì sao. Cậu nằm mơ thấy những chuyến bay kỳ lạ, dường như cậu đã vứt bỏ được trọng lượng của bản thân. Khát vọng bay vào khoảng không giữa các hành tinh và hoàn toàn thoát khỏi sức hút của trái đất đã sớm hình thành ở cậu bé ngay từ khi cậu còn chưa đọc thông viết thạo. Ngay từ khi trong ý thức mới hình thành những nét lờ mờ thì cậu bé đã có một ước mơ thú vị, nhưng thầm kín là làm sao tạo được một môi trường trong đó con người chuyển động hoàn toàn tự do theo mọi hướng, nhẹ nhàng hơn cả chim bay trong không khí mà không hề bị rơi xuống đâu cả. Khi đó chưa có ai nói một tí gì với cậu bé về môi trường không có trọng lực, nhưng cậu bé vẫn mong muốn điều đó. Một sự mong muốn day dứt. Do sở thích khám phá về việc bay lượn nên ngay từ nhỏ, Tsiolkovsky đã được các ông anh tặng cho biệt hiệu là "Con chim nhỏ" - cái biệt hiệu đầy kiêu hãnh, vẫy gọi những chuyến bay!
 
 Bởi những khát khao đó mã Tsiolkovsky đã dành cả cuộc đời tiếp theo để khai phá con đường vào vũ trụ. Cuối cùng ông đã thành công và là người chế tạo được tên lửa đầu tiên trên thế giới.
 
@@ -28,23 +28,21 @@ Bởi những khát khao đó mã Tsiolkovsky đã dành cả cuộc đời ti�
 Trăn trở đủ lâu giải pháp sẽ đến. Khi vấp phải trở ngại, đó là lúc ta cần suy ngẫm thêm khía cạnh khác của vấn đề. Hãy nghiên cứu và cống hiến bằng tất cả niềm say mê, hứng thú, thành công sẽ đến với chúng ta.
 
 ## 🔗 Nguyên nhân + Điều kiện → Kết quả
-
-Dễ nản lòng khi gặp thất bại → Yếu đuối, khó đạt thành tựu lớn.
-
-Không ngừng trăn trở và cải tiến trong công việc → Ngày càng nhạy bén, giải quyết được vấn đề, đạt hiệu quả cao.
+- [x] Dễ nản lòng khi gặp thất bại → Yếu đuối, khó đạt thành tựu lớn.
+- [ ] Không ngừng trăn trở và cải tiến trong công việc → Ngày càng nhạy bén, giải quyết được vấn đề, đạt hiệu quả cao.
 
 ## 🤔 Câu hỏi tư duy
 
-Phẩm chất gì của Tsiolkovsky được thể hiện trong câu chuyện?
+1. Phẩm chất gì của Tsiolkovsky được thể hiện trong câu chuyện?
 
-Bạn có suy nghĩ gì về việc cậu bé Tsiolkovsky nhảy từ mái nhà xuống sân?
+2. Bạn có suy nghĩ gì về việc cậu bé Tsiolkovsky nhảy từ mái nhà xuống sân?
 
-Bạn sẽ làm gì khi gặp một vấn đề khó trong cuộc sống?
+3. Bạn sẽ làm gì khi gặp một vấn đề khó trong cuộc sống?
 
 
 ## 📋 Thẻ câu chuyện
 
-> **Tên câu chuyện:** “con chim nhỏ”
+> **Tên câu chuyện:** “Con chim nhỏ”
 >
 > **Nhân vật:** Konstantin E. Tsiolkovsky
 >

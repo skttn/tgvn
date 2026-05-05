@@ -17,11 +17,11 @@ Tại đây, Diesel được làm quen với các loại máy móc và tiếp c�
 
 Hằng ngày, Diesel dậy rất sớm và chỉ ngủ đôi chút sau bữa ăn trưa, tự biến một ngày làm việc thành hai ca 8 tiếng đầy bận rộn và căng thẳng. Ngày tháng trôi qua, công việc tiến triển thì ít mà thất bại đưa đến lại rất nhiều, đã có lúc anh đã ngã lòng, chỉ còn mỗi cách tìm nguồn an ủi trong những giai điệu cổ điển mà anh hằng yêu thích.
 
-Không, không được nản chí, hẳn phải có điều gì đó mình đã bỏ sót. - Diesel tự trấn an bản thân.
+– Không, không được nản chí, hẳn phải có điều gì đó mình đã bỏ sót. - Diesel tự trấn an bản thân.
 
 Nghĩ rồi, anh lại tiếp tục những nghiên cứu của mình. Cuối cùng, một tia sáng vụt lóe trong đầu óc anh khi thấy người đồng nghiệp đang châm lửa đốt lò máy.
 
-Phải rồi, giống như chiếc bật lửa, hoàn toàn có thể làm nhiên liệu bốc cháy do nhiệt độ cao nhờ không khí bị nén mạnh. - Anh phấn khích reo lên.
+– Phải rồi, giống như chiếc bật lửa, hoàn toàn có thể làm nhiên liệu bốc cháy do nhiệt độ cao nhờ không khí bị nén mạnh. - Anh phấn khích reo lên.
 
 Và thế là, theo nguyên lý này, động cơ Diesel - mang tên người chế tạo, đã ra đời sau bao tâm trí và nỗ lực của người thợ máy vĩ đại. Khi ấy, loại động cơ này tiết kiệm nhiên liệu gấp 3 lần loại động cơ chạy bằng hơi nước phổ thông. Và sau nhiều lần cải tiến, cho đến nay, động cơ diesel thuộc loại động cơ tiết kiệm nhiên liệu nhất và được ứng dụng rộng rãi trong nhiều loại máy móc hiện đại.
 
@@ -30,18 +30,16 @@ Và thế là, theo nguyên lý này, động cơ Diesel - mang tên người ch
 Thành công không chỉ sinh ra bởi tư duy đột phá mà còn đến từ nghị lực phi thường. Nghị lực càng lớn mạnh bao nhiêu thành công càng vững vàng, vĩ đại bấy nhiêu. Hãy rèn nghị lực của bản thân mỗi ngày ngay từ khi còn nhỏ tuổi.
 
 ## 🔗 Nguyên nhân + Điều kiện → Kết quả
-
-Dũng cảm và nhẫn nại trước những khó khăn → Ý chí kiên cường, nghị lực vững mạnh, làm nên việc lớn.
-
-Trăn trở về những vấn đề trong cuộc sống → Sống sâu sắc, có khả năng giải quyết được vấn đề.
+- [x] Dũng cảm và nhẫn nại trước những khó khăn → Ý chí kiên cường, nghị lực vững mạnh, làm nên việc lớn.
+- [ ] Trăn trở về những vấn đề trong cuộc sống → Sống sâu sắc, có khả năng giải quyết được vấn đề.
 
 ## 🤔 Câu hỏi tư duy
 
-Những phẩm chất gì của Rudolf Diesel được thể hiện trong câu chuyện?
+1. Những phẩm chất gì của Rudolf Diesel được thể hiện trong câu chuyện?
 
-Tương lai sẽ ra sao nếu chúng ta chọn sống hưởng thụ, dễ dàng?
+2. Tương lai sẽ ra sao nếu chúng ta chọn sống hưởng thụ, dễ dàng?
 
-Theo bạn, chúng ta có thể rèn luyện nghị lực mỗi ngày bằng cách thức nào?
+3. Theo bạn, chúng ta có thể rèn luyện nghị lực mỗi ngày bằng cách thức nào?
 
 
 ## 📋 Thẻ câu chuyện

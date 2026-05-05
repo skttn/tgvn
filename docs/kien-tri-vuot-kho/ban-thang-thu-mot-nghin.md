@@ -22,18 +22,16 @@ Thật bất ngờ, ngay lúc đó, một phóng viên đã cố gắng tiếp c
 Thành tích luôn là thứ thuộc về quá khứ, bám chấp vào chúng sẽ khiến chúng ta ảo tưởng. Hãy nhớ rằng, đích đến nằm ở tương lai, và chỉ có sự nỗ lực, phấn đấu không ngừng nghỉ chúng ta mới đạt được điều đó.
 
 ## 🔗 Nguyên nhân + Điều kiện → Kết quả
-
-Luôn cố gắng, nỗ lực hướng tới những giá trị tốt đẹp 🡪 Nghị lực tăng trưởng, cuộc sống nhiều niềm vui.
-
-Kiêu ngạo, thoả mãn với những thành tích đạt được 🡪 Ảo tưởng, phong độ đi xuống, bị mọi người chỉ trích.
+- [x] Luôn cố gắng, nỗ lực hướng tới những giá trị tốt đẹp → Nghị lực tăng trưởng, cuộc sống nhiều niềm vui.
+- [ ] Kiêu ngạo, thoả mãn với những thành tích đạt được → Ảo tưởng, phong độ đi xuống, bị mọi người chỉ trích.
 
 ## 🤔 Câu hỏi tư duy
 
-Điều gì thể hiện qua những câu trả lời của Pelé?
+1. Điều gì thể hiện qua những câu trả lời của Pelé?
 
-Nếu chúng ta luôn mơ tưởng về những vinh quang trong quá khứ thì chuyện gì sẽ xảy ra?
+2. Nếu chúng ta luôn mơ tưởng về những vinh quang trong quá khứ thì chuyện gì sẽ xảy ra?
 
-Theo bạn, làm thế nào để chúng ta có được sự khiêm tốn trước những thành công của bản thân?
+3. Theo bạn, làm thế nào để chúng ta có được sự khiêm tốn trước những thành công của bản thân?
 
 
 ## 📋 Thẻ câu chuyện

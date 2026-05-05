@@ -15,17 +15,17 @@ Lần này, có một phú ông đến tìm Lão Tử, người này có một c
 
 Ba hoa về độ giàu có một hồi, gã phú ông mới đi vào chuyện chính, hắn nói:
 
-Trên đời có rất nhiều người giàu có, nhưng tiếc rằng có những kẻ không biết giữ của, đem tiền bạc của mình để đi giúp người khác, làm nhà để cho họ ở, thuê đất để họ có chốn làm ăn, rồi cuối cùng lại sống một cuộc sống khổ cực. Cứ sống một cuộc đời sung túc, ở nhà to, có kẻ hầu, người hạ như ta có phải là sướng hơn không?
+– Trên đời có rất nhiều người giàu có, nhưng tiếc rằng có những kẻ không biết giữ của, đem tiền bạc của mình để đi giúp người khác, làm nhà để cho họ ở, thuê đất để họ có chốn làm ăn, rồi cuối cùng lại sống một cuộc sống khổ cực. Cứ sống một cuộc đời sung túc, ở nhà to, có kẻ hầu, người hạ như ta có phải là sướng hơn không?
 
 Nghe thấy vậy, Lão Tử mỉm cười, ra ngoài một hồi rồi quay lại, trên tay phải cầm một viên gạch, tay trái cầm một hòn đá và bảo:
 
-Trên tay lão có hai thứ này, nếu chọn một thì người chọn thứ nào?
+– Trên tay lão có hai thứ này, nếu chọn một thì người chọn thứ nào?
 
-Đương nhiên là ta sẽ chọn viên gạch rồi - Gã phú ông chắc nịch.
+– Đương nhiên là ta sẽ chọn viên gạch rồi - Gã phú ông chắc nịch.
 
 Lão Tử mỉm cười:
 
-Không sai, nếu là lão thì lão cũng chọn như vậy. Mặc dù, hòn đá cứng hơn cục gạch, dùng được lâu hơn, nhưng mọi người vẫn chọn cục gạch, bởi nó hữu dụng. Cũng giống như con người, có những người biết trồng trọt, biết xây nhà, giúp đỡ người khác, là người hữu ích, dù chết đi cũng vẫn được mọi người ghi nhớ. Ngược lại, có người mặc dù lớn tuổi, nhưng vô dụng, chỉ biết hưởng thụ thì dù vẫn sống nhưng cũng bị mọi người lãng quên. Thước đo của giá trị cuộc đời không phải sống bao lâu mà là sống có ích hay không.
+– Không sai, nếu là lão thì lão cũng chọn như vậy. Mặc dù, hòn đá cứng hơn cục gạch, dùng được lâu hơn, nhưng mọi người vẫn chọn cục gạch, bởi nó hữu dụng. Cũng giống như con người, có những người biết trồng trọt, biết xây nhà, giúp đỡ người khác, là người hữu ích, dù chết đi cũng vẫn được mọi người ghi nhớ. Ngược lại, có người mặc dù lớn tuổi, nhưng vô dụng, chỉ biết hưởng thụ thì dù vẫn sống nhưng cũng bị mọi người lãng quên. Thước đo của giá trị cuộc đời không phải sống bao lâu mà là sống có ích hay không.
 
 Gã phú ông nghe vậy tiu nghỉu, cúi đầu xin phép Lão Tử về sớm. Và từ đó, dường như hiểu được lời dạy của Lão Tử, ông ta đã bớt huênh hoang và biết cho đi nhiều hơn.
 
@@ -34,10 +34,8 @@ Gã phú ông nghe vậy tiu nghỉu, cúi đầu xin phép Lão Tử về sớm
 Hạnh phúc là khi ta biết cho đi. Người sống với tấm lòng vị tha luôn nhận được sự kính trọng từ mọi người xung quanh và tìm được niềm an vui trong cuộc sống. Hãy nuôi dưỡng lòng vị tha và biết cho đi ngay cả những khi ta gặp khó khăn nhất!
 
 ## 🔗 Nguyên nhân + Điều kiện → Kết quả
-
-Ích kỷ, luôn lo nghĩ tới lợi ích của bản thân mà không biết giúp đỡ người khác  → Lo lắng, bất an, mọi người xung quanh không xem trọng.
-
-Huênh hoang với những gia sản, lối sống hưởng thụ của mình → Tính tình kiêu ngạo, sức khoẻ dần giảm sút, mọi người xa lánh.
+- [x] Ích kỷ, luôn lo nghĩ tới lợi ích của bản thân mà không biết giúp đỡ người khác  → Lo lắng, bất an, mọi người xung quanh không xem trọng.
+- [ ] Huênh hoang với những gia sản, lối sống hưởng thụ của mình → Tính tình kiêu ngạo, sức khoẻ dần giảm sút, mọi người xa lánh.
 
 ## 🤔 Câu hỏi tư duy
 

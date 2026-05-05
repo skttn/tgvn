@@ -24,18 +24,16 @@ Pelé có niềm đam mê bất tận với bóng đá, nhưng do phải trang t
 Gian nan thử sức bền, khó khăn nuôi chí lớn. Chính sự cơ cực, khắc khổ sẽ rèn cho ta sức chịu đựng, sự bền bỉ, để một mai ta trưởng thành hơn, mạnh mẽ hơn và dám thực hiện đến cùng sứ mệnh cao đẹp của cuộc đời mình.
 
 ## 🔗 Nguyên nhân + Điều kiện → Kết quả
-
-Đứng vững trước khó khăn, thử thách → Vượt qua khó khăn, rắn rỏi, trưởng thành hơn.
-
-Chơi bời, hưởng thụ mà không cố gắng phát triển bản thân → Yếu đuối, thiếu sự trưởng thành, sức khoẻ kém, sống lệ thuộc.
+- [x] Đứng vững trước khó khăn, thử thách → Vượt qua khó khăn, rắn rỏi, trưởng thành hơn.
+- [ ] Chơi bời, hưởng thụ mà không cố gắng phát triển bản thân → Yếu đuối, thiếu sự trưởng thành, sức khoẻ kém, sống lệ thuộc.
 
 ## 🤔 Câu hỏi tư duy
 
-Điều gì đã giúp Pelé trở thành một cầu thủ vĩ đại?
+1. Điều gì đã giúp Pelé trở thành một cầu thủ vĩ đại?
 
-Sẽ ra sao nếu mọi người luôn tìm cách tránh né những khó khăn, gian khổ?
+2. Sẽ ra sao nếu mọi người luôn tìm cách tránh né những khó khăn, gian khổ?
 
-Bạn đã từng gặp những thử thách gì? Bạn đã vượt qua điều đó ra sao?
+3. Bạn đã từng gặp những thử thách gì? Bạn đã vượt qua điều đó ra sao?
 
 
 ## 📋 Thẻ câu chuyện

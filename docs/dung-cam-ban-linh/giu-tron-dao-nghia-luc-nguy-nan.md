@@ -20,18 +20,16 @@ Khi thấy thầy cũ bị áp giải tới một cách thô bạo, vua Hàm Ngh
 Khó khăn xảy tới mới biết đâu là mình. Giữ được đạo nghĩa thường ngày là khó nhưng khi gặp nguy nan còn khó hơn gấp bội phần. Bởi vậy, hãy rèn luyện và gìn giữ cho mình một tâm trí bình an trước ngoại cảnh, khi ấy chúng ta sẽ giữ được những điều tốt đẹp mình hằng có được.
 
 ## 🔗 Nguyên nhân + Điều kiện → Kết quả
-
-Dũng cảm bảo vệ người khác trong tình cảnh nguy nan → Ý chí, nghị lực vững vàng, sống bản lĩnh,, được mọi người kính trọng, noi gương.
-
-Bỏ mặc ân nhân trong gian khó → Yếu đuối, day dứt, bị mọi người chỉ trích, sống cô độc.
+- [x] Dũng cảm bảo vệ người khác trong tình cảnh nguy nan → Ý chí, nghị lực vững vàng, sống bản lĩnh, được mọi người kính trọng, noi gương.
+- [ ] Bỏ mặc ân nhân trong gian khó → Yếu đuối, day dứt, bị mọi người chỉ trích, sống cô độc.
 
 ## 🤔 Câu hỏi tư duy
 
-Những hành động của vua Hàm Nghi thể hiện phẩm chất gì ở người?
+1. Những hành động của vua Hàm Nghi thể hiện phẩm chất gì ở người?
 
-Sẽ ra sao nếu ai cũng bỏ mặc những người đang trong hoạn nạn?
+2. Sẽ ra sao nếu ai cũng bỏ mặc những người đang trong hoạn nạn?
 
-Theo bạn, làm sao để giữ được sự bình tĩnh khi có sự việc bất trắc xảy tới?
+3. Theo bạn, làm sao để giữ được sự bình tĩnh khi có sự việc bất trắc xảy tới?
 
 
 ## 📋 Thẻ câu chuyện

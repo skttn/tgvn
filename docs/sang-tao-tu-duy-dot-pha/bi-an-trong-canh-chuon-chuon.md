@@ -22,18 +22,16 @@ Khoa học ngày nay cũng giải thích vấn đề này một cách tương t�
 Chính nghi ngờ là chìa khoá cho để mở ra cánh cửa sự thật. Sự nghi ngờ khiến chúng ta cố gắng động não, mày mò tìm hiểu để tìm ra chân lý của hiện tượng. Từ đó, giúp chúng ta suy nghĩ nhạy bén, logic và đầy hiểu biết.
 
 ## 🔗 Nguyên nhân + Điều kiện → Kết quả
-
-Nghi ngờ về những điều được học và đọc → Suy nghĩ sâu sắc, tìm ra điều đúng đắn, mọi người kính nể.
-
-Học vẹt, áp dụng kiến thức một cách máy móc → Suy nghĩ cạn cợt, thiếu sáng tạo, khó xử lý những vấn đề phát sinh, dẫn đến sai sót, thất bại.
+- [x] Nghi ngờ về những điều được học và đọc → Suy nghĩ sâu sắc, tìm ra điều đúng đắn, mọi người kính nể.
+- [ ] Học vẹt, áp dụng kiến thức một cách máy móc → Suy nghĩ cạn cợt, thiếu sáng tạo, khó xử lý những vấn đề phát sinh, dẫn đến sai sót, thất bại.
 
 ## 🤔 Câu hỏi tư duy
 
-Tại sao Bạch Liêu lại không tin vào giải thích của những người trong làng về hiện tượng chuồn chuồn bay thấp lúc sắp mưa?
+1. Tại sao Bạch Liêu lại không tin vào giải thích của những người trong làng về hiện tượng chuồn chuồn bay thấp lúc sắp mưa?
 
-Tương lai sẽ ra sao nếu nếu chúng ta học tập một cách thụ động, vẹt vãnh và dập khuôn?
+2. Tương lai sẽ ra sao nếu nếu chúng ta học tập một cách thụ động, vẹt vãnh và dập khuôn?
 
-Bạn sẽ làm gì để hiểu sâu sắc thêm những kiến thức được học trên lớp?
+3. Bạn sẽ làm gì để hiểu sâu sắc thêm những kiến thức được học trên lớp?
 
 
 ## 📋 Thẻ câu chuyện

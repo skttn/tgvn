@@ -24,18 +24,16 @@ Phát minh vĩ đại này bắt nguồn từ sự việc bác sĩ y khoa Luigi 
 Đừng nên tin tuyệt đối vào những kiến thức chúng ta đã được đọc và học, bởi vì chúng được rút ra từ sự trải nghiệm của người khác. Và chỉ khi bạn đưa được những kiến thức ấy vào thực tế và trải nghiệm với chúng thì khi đó chúng mới thực sự là kiến thức của bạn, giúp ích cho cuộc đời của chính bạn về sau.
 
 ## 🔗 Nguyên nhân + Điều kiện → Kết quả
-
-Suy ngẫm, thực nghiệm về những điều đã được học → Ngày càng sâu sắc, tìm được hướng đi đúng đắn.
-
-Thiếu suy ngẫm, hay hùa theo số đông  → Suy nghĩ cạn cợt, dẫn đến mất mát, thất bại.
+- [x] Suy ngẫm, thực nghiệm về những điều đã được học → Ngày càng sâu sắc, tìm được hướng đi đúng đắn.
+- [ ] Thiếu suy ngẫm, hay hùa theo số đông  → Suy nghĩ cạn cợt, dẫn đến mất mát, thất bại.
 
 ## 🤔 Câu hỏi tư duy
 
-Điều gì đã giúp Volta phát minh ra pin điện?
+1. Điều gì đã giúp Volta phát minh ra pin điện?
 
-Điều gì sẽ xảy ra nếu những kiến thức ta được học không được kiểm nghiệm và ứng dụng trong thực tế?
+2. Điều gì sẽ xảy ra nếu những kiến thức ta được học không được kiểm nghiệm và ứng dụng trong thực tế?
 
-Bạn đã kiểm nghiệm những kiến thức mình được học bằng cách nào?
+3. Bạn đã kiểm nghiệm những kiến thức mình được học bằng cách nào?
 
 
 ## 📋 Thẻ câu chuyện

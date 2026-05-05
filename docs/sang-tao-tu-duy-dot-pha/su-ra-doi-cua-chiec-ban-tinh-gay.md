@@ -25,18 +25,16 @@ Hiện nay, với sự ra đời của máy tính điện tử, chiếc bàn tí
 Vấn đề của xã hội là một đề tài lớn, đầy thách thức đối với một cá nhân hay cộng đồng. Những người sống cống hiến sẽ luôn trăn trở về điều đó, tìm ra giải pháp và quyết chí thực hiện, để giúp mọi người xung quanh có cuộc sống ngày một tốt đẹp, bình an và hạnh phúc hơn.
 
 ## 🔗 Nguyên nhân + Điều kiện → Kết quả
-
-Không quan tâm đến các vấn đề của xã hội → Sống ích kỷ, suy nghĩ hạn hẹp, khó làm việc lớn.
-
-Cống hiến tài năng, tâm sức của mình cho đất nước → Ý chí lớn mạnh, sống ý nghĩa,  mọi người tôn vinh.
+- [x] Không quan tâm đến các vấn đề của xã hội → Sống ích kỷ, suy nghĩ hạn hẹp, khó làm việc lớn.
+- [ ] Cống hiến tài năng, tâm sức của mình cho đất nước → Ý chí lớn mạnh, sống ý nghĩa,  mọi người tôn vinh.
 
 ## 🤔 Câu hỏi tư duy
 
-Do đâu mà Lương Thế Vinh đã cố gắng tạo ra chiếc bàn tính gẩy đầu tiên của Việt Nam?
+1. Do đâu mà Lương Thế Vinh đã cố gắng tạo ra chiếc bàn tính gẩy đầu tiên của Việt Nam?
 
-Điều gì sẽ xảy ra nếu mọi người đều không quan tâm đến các vấn đề của xã hội?
+2. Điều gì sẽ xảy ra nếu mọi người đều không quan tâm đến các vấn đề của xã hội?
 
-Bạn sẽ làm gì để giải quyết các vấn đề đang tồn tại ở làng xóm hay trường lớp của mình?
+3. Bạn sẽ làm gì để giải quyết các vấn đề đang tồn tại ở làng xóm hay trường lớp của mình?
 
 
 ## 📋 Thẻ câu chuyện

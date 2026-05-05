@@ -15,17 +15,17 @@ Khi cậu đang mải men theo con suối nhỏ trên đường, vừa đi vừa
 
 Cậu đứng đó hồi lâu, thấy bà lão rất tập trung làm việc. Cảm thấy kỳ lạ, cậu bèn hỏi:
 
-Thưa bà, bà đang làm gì thế ạ?
+– Thưa bà, bà đang làm gì thế ạ?
 
-Ta đang mài kim - Bà cụ đáp, tay vẫn không ngừng làm việc.
+– Ta đang mài kim - Bà cụ đáp, tay vẫn không ngừng làm việc.
 
 Lý Bạch lại càng cảm thấy khó hiểu, không kìm được sự tò mò, cậu hỏi tiếp:
 
-Dạ, nhưng mà cháu thấy bà đang cầm một thanh sắt rất to mà. Làm sao có thể mài nó thành một chiếc kim được ạ?
+– Dạ, nhưng mà cháu thấy bà đang cầm một thanh sắt rất to mà. Làm sao có thể mài nó thành một chiếc kim được ạ?
 
 Lúc này, bà lão mới ngừng tay và ôn tồn giảng giải:
 
-Đúng là như vậy, nhưng cháu ạ, chỉ cần mỗi ngày cháu chăm chỉ mài, thanh sắt này sẽ nhỏ dần và nhất định sẽ có một ngày thanh sắt này biến thành cây kim! Cũng giống như cháu đi học, mặc dù trên đời này có biết bao nhiêu là sách nhưng nếu cháu kiên trì học hỏi, rèn luyện thì mười, hai mươi năm sau, nhất định những kiến thức trong đó sẽ trở thành của cháu!
+– Đúng là như vậy, nhưng cháu ạ, chỉ cần mỗi ngày cháu chăm chỉ mài, thanh sắt này sẽ nhỏ dần và nhất định sẽ có một ngày thanh sắt này biến thành cây kim! Cũng giống như cháu đi học, mặc dù trên đời này có biết bao nhiêu là sách nhưng nếu cháu kiên trì học hỏi, rèn luyện thì mười, hai mươi năm sau, nhất định những kiến thức trong đó sẽ trở thành của cháu!
 
 Nghe bà cụ nói xong, Lý Bạch cảm thấy vô cùng xấu hổ, cậu cúi đầu chào bà cụ và quyết định quay trở lại lớp học.
 
@@ -36,10 +36,8 @@ Từ đó trở đi, Lý Bạch không còn ham chơi nữa mà cậu quyết tu
 Thành công của tất cả các vĩ nhân đều được vun đắp từ sự kiên trì. Sự kiên trì càng lớn mạnh bao nhiêu thì thành công càng vĩ đại bấy nhiêu. Hãy tự rèn cho mình tính kiên trì khi làm ngay từ những việc nhỏ nhất.
 
 ## 🔗 Nguyên nhân + Điều kiện → Kết quả
-
-Kiên trì, giữ vững kỷ luật trong học tập và làm việc → Rắn rỏi, trưởng thành, đạt được thành công lớn trong tương lai.
-
-Dễ chán nản, sớm bỏ dở những việc mình đang làm → Nghị lực yếu, mọi người không tin tưởng, trở thành gánh nặng cho xã hội.
+- [x] Kiên trì, giữ vững kỷ luật trong học tập và làm việc → Rắn rỏi, trưởng thành, đạt được thành công lớn trong tương lai.
+- [ ] Dễ chán nản, sớm bỏ dở những việc mình đang làm → Nghị lực yếu, mọi người không tin tưởng, trở thành gánh nặng cho xã hội.
 
 ## 🤔 Câu hỏi tư duy
 

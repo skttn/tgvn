@@ -22,18 +22,16 @@ Chính vì tình yêu với sách từ thuở nhỏ và mong muốn mọi ngư�
 Sách tinh hoa là thức ăn của tâm hồn, nuôi dưỡng chúng ta trưởng thành cùng năm tháng. Hãy vun đắp tình yêu của mình với sách và chọn cho mình những cuốn sách tinh hoa để đồng hành với quá trình rèn luyện của chúng ta trong mỗi chặng đường đời.
 
 ## 🔗 Nguyên nhân + Điều kiện → Kết quả
-
-Đọc và nghiền ngẫm sách tinh hoa trong suốt quá trình trưởng thành → Trở thành con người tinh hoa, cống hiến những điều tốt đẹp cho cuộc đời.
-
-Xây dựng thư viện sách tinh hoa phục vụ cộng đồng → Trí tuệ tăng trưởng, con người phát triển, xã hội văn minh.
+- [x] Đọc và nghiền ngẫm sách tinh hoa trong suốt quá trình trưởng thành → Trở thành con người tinh hoa, cống hiến những điều tốt đẹp cho cuộc đời.
+- [ ] Xây dựng thư viện sách tinh hoa phục vụ cộng đồng → Trí tuệ tăng trưởng, con người phát triển, xã hội văn minh.
 
 ## 🤔 Câu hỏi tư duy
 
-Những phẩm chất đáng quý gì thể hiện qua từng việc Bill Gates đã làm?
+1. Những phẩm chất đáng quý gì thể hiện qua từng việc Bill Gates đã làm?
 
-Xã hội sẽ ra sao nếu tất cả mọi người đều được tiếp cận với những cuốn sách tinh hoa?
+2. Xã hội sẽ ra sao nếu tất cả mọi người đều được tiếp cận với những cuốn sách tinh hoa?
 
-Bạn sẽ làm gì để tìm được những cuốn sách tinh hoa và xây dựng cho mình thói quen đọc sách mỗi ngày?
+3. Bạn sẽ làm gì để tìm được những cuốn sách tinh hoa và xây dựng cho mình thói quen đọc sách mỗi ngày?
 
 
 ## 📋 Thẻ câu chuyện

@@ -26,18 +26,16 @@ Bởi công lao trị thủy to lớn của Hạ Vũ mà sau này, ông được
 Năng lực giải quyết vấn đề chủ yếu sinh ra từ khả năng quan sát và suy luận. Quan sát cần đa chiều, suy luận cần sâu sát, sao cho vấn đề được nhìn từ nhiều phía và được đào sâu đến tận lõi. Có như vậy, chúng ta mới có thể hiểu vấn đề một cách sâu sắc, từ đó đề ra giải pháp phù hợp.
 
 ## 🔗 Nguyên nhân + Điều kiện → Kết quả
-
-Quan sát đa chiều, sâu sát về những vấn đề trong cuộc sống → Trí tuệ tăng trưởng, hiểu sâu sắc vấn đề, tìm ra giải pháp.
-
-Xử lý vấn đề một cách tạm bợ mang tính đối phó → Dễ dẫn đến vấn đề nghiêm trọng hơn, bị mọi người chỉ trích.
+- [x] Quan sát đa chiều, sâu sát về những vấn đề trong cuộc sống → Trí tuệ tăng trưởng, hiểu sâu sắc vấn đề, tìm ra giải pháp.
+- [ ] Xử lý vấn đề một cách tạm bợ mang tính đối phó → Dễ dẫn đến vấn đề nghiêm trọng hơn, bị mọi người chỉ trích.
 
 ## 🤔 Câu hỏi tư duy
 
-Điều gì đã giúp Hạ Vũ trị được nạn lũ lụt đã tồn tại nhiều năm?
+1. Điều gì đã giúp Hạ Vũ trị được nạn lũ lụt đã tồn tại nhiều năm?
 
-Bạn có suy nghĩ gì về câu nói nổi tiếng mà tổng thống Lincoln để lại: “Nếu cho tôi 6 giờ để đốn hạ một cái cây, tôi sẽ dành 4 giờ đầu để mài sắc lưỡi rìu”?
+2. Bạn có suy nghĩ gì về câu nói nổi tiếng mà tổng thống Lincoln để lại: “Nếu cho tôi 6 giờ để đốn hạ một cái cây, tôi sẽ dành 4 giờ đầu để mài sắc lưỡi rìu”?
 
-Bạn đang gặp vấn đề gì trong cuộc sống và bạn sẽ giải quyết điều đó như thế nào?
+3. Bạn đang gặp vấn đề gì trong cuộc sống và bạn sẽ giải quyết điều đó như thế nào?
 
 
 ## 📋 Thẻ câu chuyện

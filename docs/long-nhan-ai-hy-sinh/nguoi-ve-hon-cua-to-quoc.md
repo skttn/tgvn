@@ -36,18 +36,16 @@ Ngọn cờ đỏ sao vàng đã ngạo nghễ tung bay trong nhiều cuộc kh�
 Những điều thân thuộc nhất trong cuộc đời của mỗi người nằm trong chính quốc gia mà họ đã lớn lên. Đất nước là nơi bảo vệ, hỗ trợ chúng ta về nhiều mặt như y tế, giao dục, an sinh,... Lòng yêu nước không hề xa vời, chính những việc làm góp phần bảo vệ môi trường, giúp đỡ những người đồng bào yếu thế hơn mình là thể hiện tình yêu của chúng ta với quê hương, đất nước.
 
 ## 🔗 Nguyên nhân + Điều kiện → Kết quả
-
-Cống hiến những điều tốt đẹp cho đất nước → Đất nước phồn thịnh, sống hạnh phúc, được mọi người quý trọng.
-
-Thói quen nói xấu đất nước với người khác → Hay suy nghĩ tiêu cực, mất dần nhân cách đạo đức, mọi người không xem trọng.
+- [x] Cống hiến những điều tốt đẹp cho đất nước → Đất nước phồn thịnh, sống hạnh phúc, được mọi người quý trọng.
+- [ ] Thói quen nói xấu đất nước với người khác → Hay suy nghĩ tiêu cực, mất dần nhân cách đạo đức, mọi người không xem trọng.
 
 ## 🤔 Câu hỏi tư duy
 
-Em có cảm nhận gì sau khi đọc những câu thơ về hình ảnh lá cờ của Nguyễn Hữu Tiến?
+1. Em có cảm nhận gì sau khi đọc những câu thơ về hình ảnh lá cờ của Nguyễn Hữu Tiến?
 
-Sẽ ra sao nếu người dân của một quốc gia mất đi lòng yêu nước?
+2. Sẽ ra sao nếu người dân của một quốc gia mất đi lòng yêu nước?
 
-Bạn đã và sẽ làm gì để thể hiện lòng yêu nước của mình?
+3. Bạn đã và sẽ làm gì để thể hiện lòng yêu nước của mình?
 
 
 ## 📋 Thẻ câu chuyện

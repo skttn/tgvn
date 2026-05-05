@@ -21,13 +21,13 @@ Và rồi gần 50 ngày đã trôi qua, các thuyền viên vẫn không thấy
 
 Vài ngày nữa trôi qua mà không có tiến triển gì, sự tuyệt vọng chuyển thành giận dữ, tới bữa ăn, một vài người thuỷ thủ đã không kìm chế được nữa, họ đến bên Columbus, một người vứt mẩu bánh mì trước mặt vị đô đốc và hét lớn:
 
-Thứ quái quỷ này làm sao mà ăn được nữa chứ! Chúng tôi đã tin ông và bây giờ đều trong cảnh này. Nếu ông không có câu trả lời hợp lý. Chúng tôi sẽ ném ông xuống biển và cho tàu quay trở lại.
+– Thứ quái quỷ này làm sao mà ăn được nữa chứ! Chúng tôi đã tin ông và bây giờ đều trong cảnh này. Nếu ông không có câu trả lời hợp lý. Chúng tôi sẽ ném ông xuống biển và cho tàu quay trở lại.
 
-Đúng đấy! Đúng đấy! - Một vài người khác lên tiếng.
+– Đúng đấy! Đúng đấy! - Một vài người khác lên tiếng.
 
 Vị đô đốc kiềm chế họ bằng vẻ mặt điềm tĩnh:
 
-Tôi hiểu cảm giác của các anh. Nhưng bỏ cuộc giữa chừng thì thật hèn nhát. Hãy cho tôi 3 ngày, sau đó các anh có thể làm điều các anh muốn.
+– Tôi hiểu cảm giác của các anh. Nhưng bỏ cuộc giữa chừng thì thật hèn nhát. Hãy cho tôi 3 ngày, sau đó các anh có thể làm điều các anh muốn.
 
 Những người thuỷ thủ xì xào và miễn cưỡng đồng ý, cho phép vị đô đốc của mình ba ngày cuối cùng. Với kinh nghiệm đi biển và cảm nhận về gió, độ ẩm của mình, Columbus tin rằng con thuyền sắp cập bến tới một miền đất mới. Và rồi, điều đó thực sự đã xảy ra.
 
@@ -42,18 +42,16 @@ Có một điều không thể ngờ tới, vùng đất này có nhiều điể
 Thành công luôn nằm ở cuối chặng hành trình. Những người có niềm tin và ý chí mạnh mẽ mới có thể chinh phục điều đó. Hãy giữ vững niềm tin và ý chí của mình trong mọi hoàn cảnh, dù là khó khăn nhất.
 
 ## 🔗 Nguyên nhân + Điều kiện → Kết quả
-
-Giữ được sự đoàn kết trong mọi tình huống → Tổ chức vững bền và phát triển lớn mạnh.
-
-Điềm tĩnh, tỉnh táo khi gặp khó khăn trong cuộc sống → Có cái nhìn thấu đáo, vượt qua được khó khăn.
+- [x] Giữ được sự đoàn kết trong mọi tình huống → Tổ chức vững bền và phát triển lớn mạnh.
+- [ ] Điềm tĩnh, tỉnh táo khi gặp khó khăn trong cuộc sống → Có cái nhìn thấu đáo, vượt qua được khó khăn.
 
 ## 🤔 Câu hỏi tư duy
 
-Cách ứng xử của Columbus với các thuỷ thủ thể hiện điều gì ở ngài?
+1. Cách ứng xử của Columbus với các thuỷ thủ thể hiện điều gì ở ngài?
 
-Chuyện gì sẽ xảy ra nếu chúng ta mất đi sự tỉnh táo và đoàn kết khi gặp khó khăn?
+2. Chuyện gì sẽ xảy ra nếu chúng ta mất đi sự tỉnh táo và đoàn kết khi gặp khó khăn?
 
-Theo bạn, chúng ta cần làm gì để rèn luyện được sự điềm tĩnh và tỉnh táo trước ngoại cảnh?
+3. Theo bạn, chúng ta cần làm gì để rèn luyện được sự điềm tĩnh và tỉnh táo trước ngoại cảnh?
 
 
 ## 📋 Thẻ câu chuyện

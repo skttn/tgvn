@@ -24,18 +24,16 @@ Việc phát minh ra đồng hồ con lắc và lý thuyết về con lắc đã
 Học tập và ứng dụng được những điều mình học là rất tuyệt vời. Nhưng đừng nên chỉ dừng lại tại đó, hãy luôn nỗ lực cải tiến, sáng tạo để tìm ra những điều mới mẻ, phù hợp hơn nữa để giúp cuộc sống ngày một tốt đẹp, xã hội ngày một nhân văn hơn.
 
 ## 🔗 Nguyên nhân + Điều kiện → Kết quả
-
-Cố gắng cải tiến trong học tập và công việc → Tư duy nhạy bén, giải quyết tốt các vấn đề gặp phải.
-
-Nỗ lực ứng dụng những điều đã học vào cuộc sống → Phát triển tư duy sáng tạo, sống thực tế, hiểu sâu sắc những kiến thức đã học.
+- [x] Cố gắng cải tiến trong học tập và công việc → Tư duy nhạy bén, giải quyết tốt các vấn đề gặp phải.
+- [ ] Nỗ lực ứng dụng những điều đã học vào cuộc sống → Phát triển tư duy sáng tạo, sống thực tế, hiểu sâu sắc những kiến thức đã học.
 
 ## 🤔 Câu hỏi tư duy
 
-Điều gì đã thôi thúc Huygens sáng tạo ra và không ngừng cải tiến những chiếc đồng hồ?
+1. Điều gì đã thôi thúc Huygens sáng tạo ra và không ngừng cải tiến những chiếc đồng hồ?
 
-Chuyện gì sẽ xảy ra nếu ta không có tư duy sáng tạo và cải tiến trong công việc?
+2. Chuyện gì sẽ xảy ra nếu ta không có tư duy sáng tạo và cải tiến trong công việc?
 
-Bạn đã cải tiến phương pháp học tập của mình như thế nào và đạt kết quả ra sao? Hãy chia sẻ với các bạn cùng lớp nhé.
+3. Bạn đã cải tiến phương pháp học tập của mình như thế nào và đạt kết quả ra sao? Hãy chia sẻ với các bạn cùng lớp nhé.
 
 
 ## 📋 Thẻ câu chuyện

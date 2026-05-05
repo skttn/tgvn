@@ -28,18 +28,16 @@ Colombus bình tĩnh giải thích: “Khi chỉ thấy được kết quả, ch
 Trong cuộc sống, luôn luôn có những người không ưa bạn, mỉa mai bạn, thậm chí coi thường những gì mà bạn có. Đừng bực tức, đừng cãi lộn, đừng gây hấn, cách tốt nhất để họ nhận ra vấn đề đó là hãy dùng hành động, thể hiện thái độ một cách khoan dung. Đây cũng chính là triết lý muôn đời của người xưa để lại: “Dùng tình yêu thương để hoá giải hận thù”.
 
 ## 🔗 Nguyên nhân + Điều kiện → Kết quả
-
-Bình tĩnh, khoan dung trước những lời gièm pha, mỉa mai của người khác → Nghị lực vững mạnh, sống an vui, cảm hoá được cái ác.
-
-Khinh thường, đố kị với những thành công của người khác → Ảo tưởng, kém hiểu biết dẫn tới thất bại sau này.
+- [x] Bình tĩnh, khoan dung trước những lời gièm pha, mỉa mai của người khác → Nghị lực vững mạnh, sống an vui, cảm hoá được cái ác.
+- [ ] Khinh thường, đố kị với những thành công của người khác → Ảo tưởng, kém hiểu biết dẫn tới thất bại sau này.
 
 ## 🤔 Câu hỏi tư duy
 
-Cách ứng xử của Colombus với hai người lạ mặt thể hiện điều gì ở ngài?
+1. Cách ứng xử của Colombus với hai người lạ mặt thể hiện điều gì ở ngài?
 
-Nếu chúng ta luôn tỏ ra khó chịu, tức giận trước sự chê bai của người khác thì điều gì sẽ xảy ra?
+2. Nếu chúng ta luôn tỏ ra khó chịu, tức giận trước sự chê bai của người khác thì điều gì sẽ xảy ra?
 
-Bạn thường phản ứng thế nào với những người hay khinh thường, mỉa mai bạn?
+3. Bạn thường phản ứng thế nào với những người hay khinh thường, mỉa mai bạn?
 
 
 ## 📋 Thẻ câu chuyện

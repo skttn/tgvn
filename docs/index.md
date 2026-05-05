@@ -12,7 +12,7 @@ Chọn mục bên trái để xem thêm thông tin về trang web hoặc cách s
 
 ---
 
-## Về trang web
+## 🌐 Về trang web
 
 **Tấm Gương Vĩ Nhân** là tuyển tập **64 câu chuyện có thật** về những con người xuất chúng trong lịch sử — từ các danh nhân Việt Nam đến những tên tuổi lừng lẫy thế giới.
 
@@ -20,7 +20,7 @@ Mỗi câu chuyện được chắt lọc để truyền tải một bài học 
 
 ---
 
-## Trang web giúp bạn
+## ✨ Trang web giúp bạn
 
 - 📖 **Đọc** những câu chuyện truyền cảm hứng, ngắn gọn và dễ hiểu
 - 💡 **Học** bài học cốt lõi từ mỗi tấm gương vĩ nhân
@@ -29,7 +29,7 @@ Mỗi câu chuyện được chắt lọc để truyền tải một bài học 
 
 ---
 
-## 7 chương phẩm chất
+## 📚 7 chương phẩm chất
 
 | Chương | Nội dung |
 |--------|----------|

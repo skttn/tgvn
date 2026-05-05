@@ -22,18 +22,16 @@ Là người đời sau nhà bác học Lê Quý đôn, Phan Huy Chú đã nổi
 Dù không đạt được tiền tài, quyền lực hay danh vọng nhưng nếu sống với sự hiểu biết và cái tâm cho đi thì chúng ta luôn có được một cuộc đời đầy ý nghĩa và hạnh phúc.
 
 ## 🔗 Nguyên nhân + Điều kiện → Kết quả
-
-Học vẹt, chỉ giỏi lý thuyết suông mà không biết áp dụng vào thực tế → Thiếu đi sự năng động và sáng tạo, ảo tưởng về năng lực của bản thân, thất bại sau này.
-
-Bền bỉ cống hiến những điều ý nghĩa cho cuộc đời → Cuộc sống ý nghĩa, sống an vui, được mọi người kính trọng, tôn vinh.
+- [x] Học vẹt, chỉ giỏi lý thuyết suông mà không biết áp dụng vào thực tế → Thiếu đi sự năng động và sáng tạo, ảo tưởng về năng lực của bản thân, thất bại sau này.
+- [ ] Bền bỉ cống hiến những điều ý nghĩa cho cuộc đời → Cuộc sống ý nghĩa, sống an vui, được mọi người kính trọng, tôn vinh.
 
 ## 🤔 Câu hỏi tư duy
 
-Điều gì đã giúp cho Phan Huy Chú hoàn thiện được bộ bách khoa toàn thư đầu tiên của Việt Nam?
+1. Điều gì đã giúp cho Phan Huy Chú hoàn thiện được bộ bách khoa toàn thư đầu tiên của Việt Nam?
 
-Nếu ta chán nản, gục ngã vì chuyện thi cử, thất bại mà không biết tự mình đứng lên thì chuyện gì sẽ xảy ra?
+2. Nếu ta chán nản, gục ngã vì chuyện thi cử, thất bại mà không biết tự mình đứng lên thì chuyện gì sẽ xảy ra?
 
-Bạn đã rèn luyện kỹ năng tự học như thế nào? Hãy chia sẻ cho các bạn trong lớp nhé.
+3. Bạn đã rèn luyện kỹ năng tự học như thế nào? Hãy chia sẻ cho các bạn trong lớp nhé.
 
 
 ## 📋 Thẻ câu chuyện

@@ -4,13 +4,13 @@ icon: lucide/compass
 
 # Cách sử dụng
 
-## Duyệt theo chủ đề
+## 🗂️ Duyệt theo chủ đề
 
 Nhấn vào tab trên thanh điều hướng để chọn chương, sau đó chọn câu chuyện từ thanh bên trái.
 
 ---
 
-## Tìm kiếm
+## 🔍 Tìm kiếm
 
 Nhấn biểu tượng 🔍 ở góc trên phải (hoặc nhấn tổ hợp phím Ctrl+K) để tìm theo:
 
@@ -20,7 +20,7 @@ Nhấn biểu tượng 🔍 ở góc trên phải (hoặc nhấn tổ hợp phí
 
 ---
 
-## Lọc theo tag
+## 🏷️ Lọc theo tag
 
 Mỗi câu chuyện được gắn **tags** để dễ lọc. Gõ tag vào ô tìm kiếm:
 
@@ -36,4 +36,4 @@ Mỗi câu chuyện được gắn **tags** để dễ lọc. Gõ tag vào ô t�
 | `nghiluc` | Nghị lực vượt khó |
 | `daoduc` | Phẩm hạnh, đạo đức |
 | `tritue` | Trí tuệ, tư duy |
-| *(tên nhân vật)* | ví dụ: `bacho`, `billgates` |
+| *(tên nhân vật)* | ví dụ: `hochiminh`, `billgates` |

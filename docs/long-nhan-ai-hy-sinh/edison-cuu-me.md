@@ -28,18 +28,16 @@ Nhận ra tầm quan trọng của ánh sáng, khi lớn lên, Edison đã tiế
 “Mỗi đứa trẻ là một nhà khoa học”. Hãy luôn tò mò, học hỏi, đồng thời kiểm chứng lại những gì mình đã học được. Và điều quan trọng nhất là hãy tìm cách áp dụng được những điều mình đã học vào thực tế, có như vậy việc học mới thực sự có ý nghĩa.
 
 ## 🔗 Nguyên nhân + Điều kiện → Kết quả
-
-Luôn tò mò, tìm cách học hỏi, trau dồi kiến thức → Trí tuệ phát triển, từ đó thực hiện được hoài bão, ước mơ.
-
-Chỉ học trên sách vở mà không ứng dụng vào thực tế → Ảo tưởng, tư duy xa rời thực tế, dễ thất bại.
+- [x] Luôn tò mò, tìm cách học hỏi, trau dồi kiến thức → Trí tuệ phát triển, từ đó thực hiện được hoài bão, ước mơ.
+- [ ] Chỉ học trên sách vở mà không ứng dụng vào thực tế → Ảo tưởng, tư duy xa rời thực tế, dễ thất bại.
 
 ## 🤔 Câu hỏi tư duy
 
-Điều gì giúp cho Edison cứu được mẹ?
+1. Điều gì giúp cho Edison cứu được mẹ?
 
-Xã hội sẽ ra sao nếu ai trong chúng ta cũng biết cách ứng dụng điều mình đã học vào thực tế?
+2. Xã hội sẽ ra sao nếu ai trong chúng ta cũng biết cách ứng dụng điều mình đã học vào thực tế?
 
-Bạn đã ứng dụng những kiến thức nào vào thực tế cuộc sống?
+3. Bạn đã ứng dụng những kiến thức nào vào thực tế cuộc sống?
 
 
 ## 📋 Thẻ câu chuyện

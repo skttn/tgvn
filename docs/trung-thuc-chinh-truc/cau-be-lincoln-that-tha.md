@@ -22,18 +22,16 @@ Hàng xóm của cậu bé sau khi biết chuyện đều rất quý mến cậu
 Sức mạnh của chúng ta nằm ở ngay sự trung thực mà bản thân đang có. Thật thà, trung thực là nền tảng cho niềm tin yêu, sự kính trọng của mọi người được nảy nở và trao gửi đến chúng ta. Hãy thật thà, trung thực trong từng suy nghĩ, lời nói, hành động của chính mình.
 
 ## 🔗 Nguyên nhân + Điều kiện → Kết quả
-
-Luôn thật thà với mọi người xung quanh → Hài lòng với bản thân, luôn được mọi người quý mến, kính trọng.
-
-Vì lợi ích riêng mà đi lừa gạt những người khác → Sống khắc khổ sau này, bị mọi người xa lánh.
+- [x] Luôn thật thà với mọi người xung quanh → Hài lòng với bản thân, luôn được mọi người quý mến, kính trọng.
+- [ ] Vì lợi ích riêng mà đi lừa gạt những người khác → Sống khắc khổ sau này, bị mọi người xa lánh.
 
 ## 🤔 Câu hỏi tư duy
 
-Điều gì đã thôi thúc Lincoln cố gắng hoàn trả tiền thừa cho người khách hàng?
+1. Điều gì đã thôi thúc Lincoln cố gắng hoàn trả tiền thừa cho người khách hàng?
 
-Làm thế nào để chúng ta có thể thật thà trong từng suy nghĩ, lời nói, hành động?
+2. Làm thế nào để chúng ta có thể thật thà trong từng suy nghĩ, lời nói, hành động?
 
-Bạn đã từng không thật thà bao giờ chưa? Hãy kể ra các biện pháp để khắc phục và tránh tái phạm lại những điều như vậy.
+3. Bạn đã từng không thật thà bao giờ chưa? Hãy kể ra các biện pháp để khắc phục và tránh tái phạm lại những điều như vậy.
 
 
 ## 📋 Thẻ câu chuyện

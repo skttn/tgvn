@@ -21,18 +21,16 @@ Dù bị bắt đi đày ở chốn xa lạ, tinh thần yêu nước của vua 
 Đất nước hoà bình ngày nay mà chúng ta sinh sống được đánh đổi bởi không biết bao nỗi đau, xương máu của những thế hệ đi trước. Vì vậy, hãy nhớ ơn và noi gương cha ông, xây dựng đất nước Việt Nam trường tồn và phát triển hơn nữa!
 
 ## 🔗 Nguyên nhân + Điều kiện → Kết quả
-
-Nhớ ơn các vị anh hùng trong lịch sử dân tộc → Yêu đồng bào, tổ quốc, thêm động lực xây dựng đất nước Việt Nam tươi đẹp hơn.
-
-Đồng sức, đồng lòng bảo vệ và xây dựng đất nước → Nhân dân gắn kết, đất nước trường tồn và phát triển.
+- [x] Nhớ ơn các vị anh hùng trong lịch sử dân tộc → Yêu đồng bào, tổ quốc, thêm động lực xây dựng đất nước Việt Nam tươi đẹp hơn.
+- [ ] Đồng sức, đồng lòng bảo vệ và xây dựng đất nước → Nhân dân gắn kết, đất nước trường tồn và phát triển.
 
 ## 🤔 Câu hỏi tư duy
 
-Điều gì thể hiện thông qua lời nói và hành động của vua Hàm Nghi?
+1. Điều gì thể hiện thông qua lời nói và hành động của vua Hàm Nghi?
 
-Chuyện gì sẽ xảy ra nếu thế hệ trẻ Việt Nam không có thái độ biết ơn các vị anh hùng dân tộc?
+2. Chuyện gì sẽ xảy ra nếu thế hệ trẻ Việt Nam không có thái độ biết ơn các vị anh hùng dân tộc?
 
-Bạn đã và sẽ làm gì để thể hiện tình yêu của mình với quê hương, đất nước?
+3. Bạn đã và sẽ làm gì để thể hiện tình yêu của mình với quê hương, đất nước?
 
 
 ## 📋 Thẻ câu chuyện

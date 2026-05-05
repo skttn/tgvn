@@ -26,18 +26,16 @@ Cứ như vậy, Leonardo Da Vinci vẫn miệt mài vẽ trứng để tìm đ�
 Để làm được những việc lớn lao, hãy bắt đầu từ những việc nhỏ mang tính cơ bản. Làm được những việc nhỏ đó chính là đặt nền móng vững chắc giúp chúng ta thực hiện tốt những việc lớn sau này.
 
 ## 🔗 Nguyên nhân + Điều kiện → Kết quả
-
-Kiên trì học và rèn những việc nhỏ thường ngày → Chu đáo, cẩn thận, có khả năng làm được những việc lớn.
-
-Chủ quan, xem thường những việc nhỏ thường ngày → Hậu đậu, kém cỏi, không làm được những  việc trọng đại.
+- [x] Kiên trì học và rèn những việc nhỏ thường ngày → Chu đáo, cẩn thận, có khả năng làm được những việc lớn.
+- [ ] Chủ quan, xem thường những việc nhỏ thường ngày → Hậu đậu, kém cỏi, không làm được những  việc trọng đại.
 
 ## 🤔 Câu hỏi tư duy
 
-Điều gì khiến Da Vinci chăm chỉ vẽ trứng mặc dù trước đó cậu từng chán nản với việc đó?
+1. Điều gì khiến Da Vinci chăm chỉ vẽ trứng mặc dù trước đó cậu từng chán nản với việc đó?
 
-Nếu chúng ta chỉ suy tính làm những việc lớn trong khi những việc nhỏ ta chưa làm được tốt thì chuyện gì sẽ xảy ra?
+2. Nếu chúng ta chỉ suy tính làm những việc lớn trong khi những việc nhỏ ta chưa làm được tốt thì chuyện gì sẽ xảy ra?
 
-Bạn sẽ làm gì để rèn cho mình tính chu đáo, cần mẫn trong học tập cũng như làm việc?
+3. Bạn sẽ làm gì để rèn cho mình tính chu đáo, cần mẫn trong học tập cũng như làm việc?
 
 
 ## 📋 Thẻ câu chuyện

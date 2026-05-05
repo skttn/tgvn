@@ -20,18 +20,16 @@ Hiện nay, Vovinam được mọi người biết tới như một môn võ man
 Võ thuật là phương tiện để chăm sóc thân và tâm con người. Võ sinh không chỉ chú trọng rèn luyện thân thể khoẻ mạnh mà còn cần nuôi dưỡng ý chí và tình thương, để khi có một việc phi nghĩa xảy ra, người học võ có thể tự giúp mình và bảo vệ người khác.
 
 ## 🔗 Nguyên nhân + Điều kiện → Kết quả
-
-Thường xuyên rèn luyện bộ môn võ thuật tinh hoa → Ý chí sắt đá, thân thể dẻo dai, giúp người giúp đời.
-
-Lan toả việc luyện võ tinh hoa tới mọi người → Sức khoẻ vững bền, tâm trí an lạc, mọi người kính phục.
+- [x] Thường xuyên rèn luyện bộ môn võ thuật tinh hoa → Ý chí sắt đá, thân thể dẻo dai, giúp người giúp đời.
+- [ ] Lan toả việc luyện võ tinh hoa tới mọi người → Sức khoẻ vững bền, tâm trí an lạc, mọi người kính phục.
 
 ## 🤔 Câu hỏi tư duy
 
-Điều gì đã thôi thúc võ sư Nguyễn Lộc sáng lập ra bộ môn võ Vovinam?
+1. Điều gì đã thôi thúc võ sư Nguyễn Lộc sáng lập ra bộ môn võ Vovinam?
 
-Chuyện gì sẽ xảy ra nếu chúng ta chỉ chú ý vào việc luyện võ mà bỏ qua việc rèn luyện tâm trí?
+2. Chuyện gì sẽ xảy ra nếu chúng ta chỉ chú ý vào việc luyện võ mà bỏ qua việc rèn luyện tâm trí?
 
-Theo bạn, đâu là những lợi ích của việc học võ đem lại?
+3. Theo bạn, đâu là những lợi ích của việc học võ đem lại?
 
 
 ## 📋 Thẻ câu chuyện

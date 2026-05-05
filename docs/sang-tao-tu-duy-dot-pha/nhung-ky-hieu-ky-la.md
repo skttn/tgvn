@@ -26,18 +26,16 @@ Thế là mọi người đồng tâm xây dựng một hệ thống ký hiệu 
 Cần mẫn, kiên trì trong học tập hay công việc là những đức tính đáng quý. Nhưng chúng ta cần biết rằng chỉ với chút sự cải tiến, sáng tạo đến đúng thời điểm, sẽ giúp chúng ta gia tăng hiệu suất và đạt những kết quả ấn tượng. Hãy luôn giữ cho mình tư duy cải tiến trong cuộc sống.
 
 ## 🔗 Nguyên nhân + Điều kiện → Kết quả
-
-Trăn trở, nỗ lực cải tiến trong học tập và công việc → Trí tuệ tăng trưởng, đạt được những thành tựu lớn.
-
-Hợp tác cùng bạn bè trong học tập → Ngày một tiến bộ trong học tập, tập thể lớp ngày càng gắn kết.
+- [x] Trăn trở, nỗ lực cải tiến trong học tập và công việc → Trí tuệ tăng trưởng, đạt được những thành tựu lớn.
+- [ ] Hợp tác cùng bạn bè trong học tập → Ngày một tiến bộ trong học tập, tập thể lớp ngày càng gắn kết.
 
 ## 🤔 Câu hỏi tư duy
 
-Cách mà Muller xử lý những khó khăn của mình thể hiện điều gì?
+1. Cách mà Muller xử lý những khó khăn của mình thể hiện điều gì?
 
-Nếu mọi người đều làm việc dập khuôn, máy móc, thiếu đi sự cải tiến thì xã hội sẽ ra sao?
+2. Nếu mọi người đều làm việc dập khuôn, máy móc, thiếu đi sự cải tiến thì xã hội sẽ ra sao?
 
-Bạn đã có những sáng tạo và cải tiến gì trong hoạt động học tập của mình?
+3. Bạn đã có những sáng tạo và cải tiến gì trong hoạt động học tập của mình?
 
 
 ## 📋 Thẻ câu chuyện

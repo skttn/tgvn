@@ -24,18 +24,16 @@ Trong suốt cả cuộc đời, Bạch Thái Bưởi luôn trăn trở, phấn 
 Những trải nghiệm đủ khó sẽ tạo nên một con người trưởng thành, đầy bản lĩnh. Vì vậy, đừng vội nhụt chí trước một việc gì khó, đừng nản lòng khi bản thân gặp thất bại, bởi chỉ khi chúng ta chịu đối mặt và vượt qua những thử thách, thất bại thì khi ấy chúng ta mới có thể trưởng thành và mạnh mẽ hơn.
 
 ## 🔗 Nguyên nhân + Điều kiện → Kết quả
-
-Bản thân có những trải nghiệm đủ khó khi còn bé → Trưởng thành, đầy bản lĩnh, làm được việc lớn, cống hiến cho đời.
-
-Đem đến những điều tích cực, ý nghĩa tới mọi người → Sống an vui, được mọi người quý mến, kính trọng.
+- [x] Bản thân có những trải nghiệm đủ khó khi còn bé → Trưởng thành, đầy bản lĩnh, làm được việc lớn, cống hiến cho đời.
+- [ ] Đem đến những điều tích cực, ý nghĩa tới mọi người → Sống an vui, được mọi người quý mến, kính trọng.
 
 ## 🤔 Câu hỏi tư duy
 
-Theo bạn, do đâu mà dẫu gặp bao khó khăn trong sự nghiệp của mình, Bạch Thái Bưởi vẫn không hề nản chí?
+1. Theo bạn, do đâu mà dẫu gặp bao khó khăn trong sự nghiệp của mình, Bạch Thái Bưởi vẫn không hề nản chí?
 
-Bạn hiểu thế nào về câu nói “Khó khăn là cội nguồn của sức mạnh”?
+2. Bạn hiểu thế nào về câu nói “Khó khăn là cội nguồn của sức mạnh”?
 
-Bạn sẽ lên kế hoạch và thực hiện những gì để bản thân được trải nghiệm những việc đủ khó ngay từ bây giờ?
+3. Bạn sẽ lên kế hoạch và thực hiện những gì để bản thân được trải nghiệm những việc đủ khó ngay từ bây giờ?
 
 
 ## 📋 Thẻ câu chuyện

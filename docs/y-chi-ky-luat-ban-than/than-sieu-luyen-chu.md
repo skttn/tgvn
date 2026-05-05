@@ -32,10 +32,8 @@ Nét chữ nết người. Không phải chỉ học giỏi là được, mà ch
 Bất kì tài năng nào được hình thành đều cần trải qua quá trình khổ luyện. Đừng dễ dàng nản chí, hãy giữ cho mình sự nhẫn nại, tập trung để dồn hết tâm sức vào điều mình đam mê, chắc chắn thành công sẽ đến với bạn!
 
 ## 🔗 Nguyên nhân + Điều kiện → Kết quả
-
-Dễ dàng bỏ cuộc giữa chừng khi gặp một điều gì không theo dự tính → Yếu đuối, gặp phải thất bại, bị mọi người chê trách.
-
-Bền bỉ, tận tâm với điều mình đam mê để mang lại giá trị cho đời → Nghị lực tăng trưởng, tìm được ý nghĩa cuộc đời.
+- [x] Dễ dàng bỏ cuộc giữa chừng khi gặp một điều gì không theo dự tính → Yếu đuối, gặp phải thất bại, bị mọi người chê trách.
+- [ ] Bền bỉ, tận tâm với điều mình đam mê để mang lại giá trị cho đời → Nghị lực tăng trưởng, tìm được ý nghĩa cuộc đời.
 
 ## 🤔 Câu hỏi tư duy
 

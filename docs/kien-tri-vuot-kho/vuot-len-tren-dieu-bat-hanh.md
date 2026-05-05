@@ -22,18 +22,16 @@ Bằng niềm hăng say sáng tạo ngay từ thuở nhỏ mà sau này, Tsiolko
 Cuộc sống thật khó khăn khi chúng ta gặp phải những nỗi bất hạnh. Nhưng nếu sống mãi với suy nghĩ tiêu cực xung quanh những điều bất hạnh ấy thì tâm trí chúng ta ngày càng héo úa và tàn lụi. Chỉ khi ta biết nhìn nhận lại, sống trọn vẹn với những điều chúng ta đang có thì một cuộc sống hạnh phúc mới sẽ mở ra và chào đón chúng ta.
 
 ## 🔗 Nguyên nhân + Điều kiện → Kết quả
-
-Luôn suy nghĩ tiêu cực về những điều bất hạnh mà mình gặp phải → Ngày một chán chường, buồn nản, dẫn tới trầm cảm.
-
-Trân trọng những gì chúng ta đang có → Luôn lạc quan, sống ý nghĩa, có trách nhiệm, mọi người nể phục.
+- [x] Luôn suy nghĩ tiêu cực về những điều bất hạnh mà mình gặp phải → Ngày một chán chường, buồn nản, dẫn tới trầm cảm.
+- [ ] Trân trọng những gì chúng ta đang có → Luôn lạc quan, sống ý nghĩa, có trách nhiệm, mọi người nể phục.
 
 ## 🤔 Câu hỏi tư duy
 
-Điều gì đã giúp cậu bé Tsiolkovsky thoát khỏi những suy nghĩ tiêu cực từ khi gặp chứng khó nghe?
+1. Điều gì đã giúp cậu bé Tsiolkovsky thoát khỏi những suy nghĩ tiêu cực từ khi gặp chứng khó nghe?
 
-Bạn có nhận xét gì về câu nói sau “Những suy nghĩ tiêu cực sẽ không bao giờ mang lại một cuộc sống tích cực”?
+2. Bạn có nhận xét gì về câu nói sau “Những suy nghĩ tiêu cực sẽ không bao giờ mang lại một cuộc sống tích cực”?
 
-Bạn sẽ làm gì khi thấy bạn mình gặp phải những bất hạnh?
+3. Bạn sẽ làm gì khi thấy bạn mình gặp phải những bất hạnh?
 
 
 ## 📋 Thẻ câu chuyện
